@@ -1,0 +1,13 @@
+.env
+pdfs/
+__pycache__/
+error_log.txt
+bin/
+pyvenv.cfg
+.DS_Store
+.vscode/
+.venv
+env/
+venv/
+ENV/
+fv/

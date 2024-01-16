@@ -1,4 +1,4 @@
-# README
+# FrasierVision
 
 FrasierVision leverages the power of AI to write single scenes of the television show Frasier, limited only by your imagination!
 
